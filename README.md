@@ -21,7 +21,7 @@
 python input.py
 ```
 
-###2. 顯示支出視覺化結果
+### 2. 顯示支出視覺化結果
 
 請確認 data.txt 與 visualize.py 位於同一資料夾中，
 在終端機中執行以下指令：
@@ -33,7 +33,7 @@ python visualize.py
 
 執行後會顯示依支出類別統計的圓餅圖。
 
-###備註
+### 備註
 
 若尚未安裝 matplotlib，請先執行：
 
@@ -41,7 +41,7 @@ python visualize.py
 pip install matplotlib
 ```
 
-###圓餅圖範例
+### 圓餅圖範例
 
 （以下為執行視覺化模組後的輸出結果示意）
 ![圓餅圖範例](pie_chart.png)
