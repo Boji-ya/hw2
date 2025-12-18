@@ -19,6 +19,7 @@
 
 ```bash
 python input.py
+```
 
 ###2. 顯示支出視覺化結果
 
@@ -27,6 +28,7 @@ python input.py
 
 ```bash
 python visualize.py
+```
 
 
 執行後會顯示依支出類別統計的圓餅圖。
@@ -37,6 +39,7 @@ python visualize.py
 
 ```bash
 pip install matplotlib
+```
 
 ###圓餅圖範例
 
