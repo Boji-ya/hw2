@@ -24,6 +24,10 @@ def add_expense():
         file.write(line)
         
     print(f"已儲存：{line.strip()}")
+    if os.path.exists('visual.py'):
+        os.system('python visual.py')
+    else:
+        print("找不到 visual.py，跳過。")
     print("----------------------------")
 
 if __name__ == "__main__":
