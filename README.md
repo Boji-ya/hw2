@@ -45,3 +45,8 @@ pip install matplotlib
 
 （以下為執行視覺化模組後的輸出結果示意）
 ![圓餅圖範例](pie_chart.png)
+
+### 分工
+
+1122944 黃書涵 負責input部分+影片+合併
+1122938 陳宏瑋 負責output部分+readme+合併
